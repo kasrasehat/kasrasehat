@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kasrasehat
 - 👀 I’m interested in AI espicially deep learning and reinforcement learning
 - 🌱 I’m currently work on Time series prediction
-- 💞️ I’m looking to collaborate on AI projects related to prediction - neuroscience - soccer analysis - 
-- 📫 you can contact me with: email:kasra.sehat@yahoo.com OR telegram: kasra_sehat
+- 💞️ I’m looking to collaborate on AI projects related to computer vision- prediction- neuroscience- soccer analysis - 
+- 📫 you can contact me with: email:kasra.sehat@gmail.com OR telegram: kasra_sehat OR WhatsApp: (+98)9037037067
 
 <!---
 kasrasehat/kasrasehat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
